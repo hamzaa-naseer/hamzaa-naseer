@@ -5,11 +5,11 @@
 <hr/>
 <h5 align="center">About Me</h5>
 <p align="center">
-  I'm a dedicated and transparent individual with a passion for taking responsibilities seriously and hustling to achieve goals. Attention to detail is one of my strongest traits, and I place a high emphasis on producing clean, quality, and well-documented code.
+  I'm a dedicated and transparent individual with 5+ years of experience in full-stack development. I have a passion for taking responsibilities seriously and hustling to achieve goals. Attention to detail is one of my strongest traits, and I place a high emphasis on producing clean, quality, and well-documented code.
 </p>
 <h5 align="center">Professional Background</h5>
 <p align="center">
-  I am a seasoned MERN Stack developer with expertise in Node.js, Express.js, React.js, PHP, Laravel, and MongoDB. As a full-stack specialist, I deliver cutting-edge web solutions for optimal performance and user engagement.
+  I am a seasoned Full Stack developer with 5+ years of experience, specializing in Node.js, Express.js, React.js, PHP, Laravel, and MongoDB. As a full-stack specialist, I deliver cutting-edge web solutions focused on performance, scalability, and user engagement.
 </p>
 <h5 align="center">Key Services</h5>
 <ul align="left">
